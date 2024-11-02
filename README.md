@@ -45,3 +45,9 @@ EDA involves answering some questions to create insights. Questions like
 
 ### Data Visualization
 
+![LITA_SALES_REPORT_DASHBOARD](https://github.com/user-attachments/assets/1acb3a26-c1d0-4bc0-9285-c7c74a42cc3b)
+
+
+![BI VISUALS1](https://github.com/user-attachments/assets/4d74dbbf-85c4-4a7e-a016-e1f3c49050c9)
+
+
